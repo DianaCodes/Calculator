@@ -1,0 +1,10 @@
+C:\Users\Diana\xampp\htdocs\Sites\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Diana\xampp\htdocs\Sites\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Diana\xampp\htdocs\Sites\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Diana\xampp\htdocs\Sites\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Diana\xampp\htdocs\Sites\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Diana\xampp\htdocs\Sites\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Diana\xampp\htdocs\Sites\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Diana\xampp\htdocs\Sites\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Diana\xampp\htdocs\Sites\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Diana\xampp\htdocs\Sites\Calculator\Calculator\obj\Debug\Calculator.pdb
